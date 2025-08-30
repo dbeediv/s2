@@ -1,0 +1,11 @@
+streamlit
+pytesseract
+pillow
+scikit-learn
+xgboost
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+pyzbar
